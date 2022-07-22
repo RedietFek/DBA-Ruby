@@ -254,7 +254,7 @@ GEM
       rails (>= 5.0)
       safe_yaml (>= 0.8.6)
       sass
-    tzinfo (1.2.6)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
